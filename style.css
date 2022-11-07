@@ -85,6 +85,9 @@ header {
   font-size: 14px;
   text-transform: uppercase;
 }
+.card h3 {
+  color: #338af3;
+}
 
 .card ul {
   display: flex;
